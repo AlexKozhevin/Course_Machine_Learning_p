@@ -10,7 +10,7 @@
 7. Прикладные задачи анализа данных: постановки и методы решения.
 
 
-### Приобретаемые навыки
+### Приобретаемые навыки:
 - Python Programming
 - Scikit-learn
 - Machine Learning (ML) Algorithms
